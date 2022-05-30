@@ -1,7 +1,7 @@
 # Github copilot testing
 
 In this repository, you can find code that I've written to help me test my Github copilot. 
-And the line above was written entirely by it.
+And the previous sentence was written entirely by it.
 
 **Not a single line of code was written by me besides the initial comment line.**
 
